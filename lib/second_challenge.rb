@@ -9,7 +9,5 @@ def second_challenge
   #code your solution here!
   
   groceries.values
-  binding.pry
-  
 
 end
